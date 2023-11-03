@@ -34,7 +34,7 @@ If you're interested in connecting, discussing potential projects, or simply wan
 
 - LinkedIn: [Mridul Jhawar](https://www.linkedin.com/in/mridul-jhawar/)
 - Portfolio: [Your Portfolio](Your Portfolio URL)
-- Email: [mridul.jhawar228@gmail.com]
+- Email: mridul.jhawar228@gmail.com
 
 Let's make the digital world a little brighter, one line of code at a time!
 
@@ -44,4 +44,4 @@ Switching from biochemistry to data science was not just a career shift; it was 
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and get in touch!
 
-[Mridul]
+
