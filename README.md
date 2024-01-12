@@ -33,7 +33,7 @@ Got an idea that resonates with mine? I'm all ears! I thrive on collaboration an
 If you're interested in connecting, discussing potential projects, or simply want to chat about the world of data and tech, don't hesitate to reach out!
 
 - LinkedIn: [Mridul Jhawar](https://www.linkedin.com/in/mridul-jhawar/)
-- Portfolio: [Your Portfolio](Your Portfolio URL)
+- Portfolio: [Mridul Jhawar](https://mriduljhawar.com)
 - Email: mridul.jhawar228@gmail.com
 
 Let's make the digital world a little brighter, one line of code at a time!
